@@ -1190,3 +1190,8 @@ button:hover,
 .hero span {
     text-shadow: none !important;
 }
+/* تحريك أزرار اللغات للأسفل بالقوة */
+.lang-switcher {
+    position: relative;
+    top: 10px; /* غيّر القيمة حسب رغبتك */
+}
