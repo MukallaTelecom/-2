@@ -1195,3 +1195,7 @@ button:hover,
     position: relative;
     top: 10px; /* غيّر القيمة حسب رغبتك */
 }
+/* تحريك أزرار اللغات للأسفل */
+.lang-switcher {
+    margin-top: 10px; /* زوّد الرقم لو حاب تنزل أكثر */
+}
